@@ -1,0 +1,48 @@
+
+Blocked IPs 
+118.39.171.131	South Korea	 Connection Closed 
+114.126.198.27	Indonesia	 Connection Closed 
+1.20.71.134	Thailand	 Connection Closed 
+213.117.130.204	None	 Connection Closed 
+81.196.79.177	Romania	 Connection Closed 
+1.121.1.49	Australia	 Connection Closed 
+145.183.92.9	Netherlands	 Connection Closed 
+80.146.140.58	Germany	 Connection Closed 
+177.100.109.156	Brazil	 Connection Closed 
+223.5.7.50	China	 Connection Closed 
+81.19.128.211	Russia	 Connection Closed 
+113.240.165.244	China	 Connection Closed 
+36.96.183.237	China	 Connection Closed 
+36.225.56.135	Taiwan	 Connection Closed 
+79.113.161.7	Romania	 Connection Closed 
+124.222.92.141	China	 Connection Closed 
+188.33.167.72	Poland	 Connection Closed 
+148.197.236.44	United Kingdom	 Connection Closed 
+197.140.252.128	Algeria	 Connection Closed 
+179.23.158.116	Venezuela	 Connection Closed 
+2.204.123.139	Germany	 Connection Closed 
+36.254.207.68	China	 Connection Closed 
+159.244.227.3	United Kingdom	 Connection Closed 
+83.21.63.0	Poland	 Connection Closed 
+57.137.171.17	Belgium	 Connection Closed 
+134.1.161.74	Germany	 Connection Closed 
+46.73.158.94	Russia	 Connection Closed 
+61.145.176.22	China	 Connection Closed 
+178.104.223.162	United Kingdom	 Connection Closed 
+217.248.43.184	Germany	 Connection Closed 
+201.76.45.85	Brazil	 Connection Closed 
+223.249.67.42	China	 Connection Closed 
+43.45.171.140	Japan	 Connection Closed 
+118.195.165.247	China	 Connection Closed 
+130.88.57.94	United Kingdom	 Connection Closed 
+84.132.123.40	Germany	 Connection Closed 
+180.178.24.44	India	 Connection Closed 
+179.95.129.76	Brazil	 Connection Closed 
+175.51.44.139	China	 Connection Closed 
+125.81.168.83	China	 Connection Closed 
+121.120.83.13	Malaysia	 Connection Closed 
+177.39.1.81	Brazil	 Connection Closed 
+114.225.25.185	China	 Connection Closed 
+163.46.52.70	Japan	 Connection Closed 
+132.66.6.196	Israel	 Connection Closed 
+105.206.144.19	Egypt	 Connection Closed 
